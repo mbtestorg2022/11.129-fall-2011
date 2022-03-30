@@ -12,7 +12,7 @@ Seminar: 2 sessions / week, 1.5 hours / session
 Prerequisite
 ------------
 
-There is no prerequisite, but there is a corequisiste of [_11.124 Introduction to Teaching and Learning Mathematics and Science_](/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011/). (A corequisite is a course that must be or can be taken concurrently with a given course.)
+There is no prerequisite, but there is a corequisiste of [_11.124 Introduction to Teaching and Learning Mathematics and Science_](/courses/11-124-introduction-to-education-looking-forward-and-looking-back-on-education-fall-2011). (A corequisite is a course that must be or can be taken concurrently with a given course.)
 
 The MIT/Wellesley Scheller Teacher Education Program
 ----------------------------------------------------
